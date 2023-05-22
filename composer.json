@@ -1,0 +1,15 @@
+{
+    "name": "netku/composertest",
+    "autoload": {
+        "psr-4": {
+            "Proyecto\\Math\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "netkuup",
+            "email": "netkuup@gmail.com"
+        }
+    ],
+    "require": {}
+}
